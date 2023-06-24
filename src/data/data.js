@@ -30,8 +30,8 @@ export const forumData = {
     },
     {
       postId: "36698-343-321232",
-      username: "trishajain",
-      name: "Trisha Jain",
+      username: "avanishGupta",
+      name: "Avanish Gupta",
       picUrl: "http://bit.ly/42Zm7tM",
       post: "Can I learn HTML, CSS, and JavaScript in 1 year?",
       postDescription:
