@@ -19,7 +19,7 @@ export const forumData = {
       comments: [
         {
           commentId: "89898-856-87576",
-          username: "ashwin4real",
+          username: "sam-williams",
           picUrl: "http://bit.ly/42Zm7tM",
           likes: 0,
           comment: "Interested",
